@@ -1,0 +1,30 @@
+leaders:
+  - name: Abdullah Munawar
+    email: abdullah.munawar@owasp.org
+  - name: Ben Pick
+    email: ben.pick@owasp.org
+    github: bennpick
+  - name: Mike McCabe
+    email: michael.mccabe@owasp.org
+    github: mccabe615
+  - name: Troy Marshal
+    email: troy.marshall@owasp.org
+    github: troymarshall
+location:
+  country: USA
+  country_code: US
+  region: North America
+  postal_code: '20191'
+  latitude: 39.0040146
+  longitude: -94.432802
+meetup_group: OWASP-Northern-Virginia-Chapter
+name: OWASP Northern Virginia
+repositories:
+  - name: www-chapter-northern-virginia
+    url: https://github.com/OWASP/www-chapter-northern-virginia
+    description: OWASP Foundation Web Repository
+tags:
+  - NoVa
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-northern-virginia
